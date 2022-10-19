@@ -16,7 +16,7 @@ Sou uma pessoa apaixonada pelo mundo da tecnologia, desde que eu tinha meus 12 p
 <li>	JS – em aprendizagem</li>
 <li>	JAVA - em aprendizagem</li>
 </ul>
-Que tal dar uma olhada no meu portfólio?
+Que tal dar uma olhada no meu portfólio?<hr>
 
 
 
