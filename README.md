@@ -1,18 +1,18 @@
 ## Bem-vindo(a) ao perfil do Lucas Alves 😁
 
 Sou uma pessoa apaixonada pelo mundo da tecnologia, desde que eu tinha meus 12 para 13 anos tinha o sonho de trabalhar com área de TI, onde sempre fui autodidata e sempre fui bom em resolver alguns problemas na área que meus colegas não sabiam resolver. Atualmente comecei a colocar esse sonho em prática estudando programação voltada para o Frontend e Mobile. As linguagens que estou estudando hoje são, HTML, CSS, JavaScript e Java. Gosto de animais, e meus principais hobbies são jogar games de FPS e Luta, ver animes, filmes e séries com a minha esposa.
-Soft Skills:
-•	Comunicação
-•	Flexibilidade e resiliência
-•	Trabalho em equipe
-•	Proatividade
-•	Empatia
+<p><ul>Soft Skills:</p>
+<li>	Comunicação</li>
+<li>	Flexibilidade e resiliência</li>
+<li>	Trabalho em equipe</li>
+<li>	Proatividade</li>
+<li>	Empatia</li></ul>
 
 <ul> Hard Skills:
-<li>•	HTML – em aprendizagem</li>
-•	CSS – em aprendizagem
-•	JS – em aprendizagem
-•	JAVA - em aprendizagem
+<li>	HTML – em aprendizagem</li>
+<li>	CSS – em aprendizagem</li>
+<li>	JS – em aprendizagem</li>
+<li>	JAVA - em aprendizagem</li>
 </ul>
 Que tal dar uma olhada no meu portfólio?
 
