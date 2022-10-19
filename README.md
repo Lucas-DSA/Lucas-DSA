@@ -8,12 +8,12 @@ Soft Skills:
 •	Proatividade
 •	Empatia
 
-Hard Skills:
-•	HTML – em aprendizagem
+<ul> Hard Skills:
+<li>•	HTML – em aprendizagem</li>
 •	CSS – em aprendizagem
 •	JS – em aprendizagem
 •	JAVA - em aprendizagem
-
+</ul>
 Que tal dar uma olhada no meu portfólio?
 
 
